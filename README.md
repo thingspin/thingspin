@@ -1,1 +1,1 @@
-# thingspin
+# ThingSPIN
